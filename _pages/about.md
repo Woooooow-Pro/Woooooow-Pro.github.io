@@ -14,7 +14,7 @@ Prior to my internship with Prof. Yuan, I served as a research intern at [Nanyan
 
 My research interests lie at the intersection of machine learning and data-intensive systems, e.g., leveraging machine learning techniques to accelerate query process in big data systems and employing system method to enhance the efficiency and affordability of large language models.
 
-**As I look forward to pursuing a PhD, slated for Fall Intake 2025**, I am eager to explore various research topics and opportunities. If you'd like to connect and discuss potential collaborations or research topics, please don't hesitate to reach out!
+<!-- **As I look forward to pursuing a PhD, slated for Fall Intake 2025**, I am eager to explore various research topics and opportunities. If you'd like to connect and discuss potential collaborations or research topics, please don't hesitate to reach out! -->
 
 <!-- ## Research Interests
 
