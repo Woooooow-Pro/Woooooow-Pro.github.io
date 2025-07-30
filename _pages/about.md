@@ -53,6 +53,9 @@ Previously,  I was a research intern in the [HKUST](https://cse.hkust.edu.hk), a
 
 (* for equal contribution)
 
+- **[tech report] [Kimi K2: Open Agentic Intelligence](https://arxiv.org/abs/2507.20534)**\
+  Kimi Team (including **Guanduo Chen**)
+
 - **[preprint] [CE-LoRA: Computation-Efficient LoRA Fine-Tuning for Language Models](https://arxiv.org/pdf/2502.01378)**\
   **Guanduo Chen***, Yutong He*, Yipeng Hu, Kun Yuan, Binhang Yuan
 
