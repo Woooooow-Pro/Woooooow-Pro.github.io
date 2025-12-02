@@ -28,8 +28,6 @@ Previously,  I was a research intern in the [HKUST](https://cse.hkust.edu.hk), a
 
 ## 📝 Selected Publications
 
-(* for equal contribution)
-
 - **[Kimi Linear: An Expressive, Efficient Attention Architecture](https://arxiv.org/abs/2510.26692)**\
   Kimi Team (including **Guanduo Chen**)
 
