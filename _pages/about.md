@@ -28,6 +28,9 @@ Previously,  I was a research intern in the [HKUST](https://cse.hkust.edu.hk), a
 
 ## 📝 Selected Publications
 
+- **[Kimi K2.5: Visual Agentic Intelligence](https://arxiv.org/abs/2602.02276)**\
+  Kimi Team (including **Guanduo Chen**)
+
 - **[Kimi Linear: An Expressive, Efficient Attention Architecture](https://arxiv.org/abs/2510.26692)**\
   Kimi Team (including **Guanduo Chen**)
 
