@@ -28,6 +28,9 @@ Previously,  I was a research intern in the [HKUST](https://cse.hkust.edu.hk), a
 
 ## 📝 Selected Publications
 
+- **[Attention Residuals](https://github.com/MoonshotAI/Attention-Residuals)**\
+  Kimi Team (including **Guanduo Chen**)
+
 - **[Kimi K2.5: Visual Agentic Intelligence](https://arxiv.org/abs/2602.02276)**\
   Kimi Team (including **Guanduo Chen**)
 
@@ -36,9 +39,6 @@ Previously,  I was a research intern in the [HKUST](https://cse.hkust.edu.hk), a
 
 - **[Kimi K2: Open Agentic Intelligence](https://arxiv.org/abs/2507.20534)**\
   Kimi Team (including **Guanduo Chen**)
-
-<!-- - **[CE-LoRA: Computation-Efficient LoRA Fine-Tuning for Language Models](https://arxiv.org/pdf/2502.01378)**\
-  **Guanduo Chen***, Yutong He*, Yipeng Hu, Kun Yuan, Binhang Yuan -->
 
 - **[Oasis: An Optimal Disjoint Segmented Learned Range Filter](https://www.vldb.org/pvldb/vol17/p1911-luo.pdf)**\
   **Guanduo Chen**, Zhenying He, Meng Li, Siqiang Luo
