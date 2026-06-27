@@ -16,8 +16,7 @@ Previously,  I was a research intern in the [HKUST](https://cse.hkust.edu.hk), a
 ## 👷 Industry Experiences
 
 - **Moonshot AI, Training Infra Team**
-  - Technical Staff, (07/2025 - Now)
-  - Technical Intern, (03/2025 - 07/2025)
+  - Technical Staff, (03/2025 - Now)
 
 - **Meituan, Training Infra Team**
   - Technical Intern, (01/2025 - 03/2025)
