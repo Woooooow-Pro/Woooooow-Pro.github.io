@@ -27,6 +27,9 @@ Previously,  I was a research intern in the [HKUST](https://cse.hkust.edu.hk), a
 
 ## 📝 Selected Publications
 
+- **[KIMI K3: OPEN FRONTIER INTELLIGENCE](https://github.com/MoonshotAI/Kimi-K3)**\
+  Kimi Team (including **Guanduo Chen**)
+
 - **[Attention Residuals](https://github.com/MoonshotAI/Attention-Residuals)**\
   Kimi Team (including **Guanduo Chen**)
 
